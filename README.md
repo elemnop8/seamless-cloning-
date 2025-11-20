@@ -55,10 +55,7 @@ Für jedes Bild werden drei Resultate geplottet:
 ## 🔧 Voraussetzungen
 
 - Python 3.10+
-- NumPy
-- SciPy
-- Matplotlib
-- skimage
+- Libraries: `numpy`, `scipy`, `matplotlib`, `skimage`
 
 ---
 
